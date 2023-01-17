@@ -3,4 +3,4 @@ project(find_all_max)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(find_all_max main.cpp)
+add_executable(find_all_max main.cpp array_functions.h)
